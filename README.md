@@ -1,5 +1,7 @@
 # Demo Repository for learning GIT
-## Author : Rahul Pal 
+## First name : Rahul 
+## Last Name : Pal 
 ## Activity : Trying to learn GITHUB from scratch
 ## Country : India
+## 
 
