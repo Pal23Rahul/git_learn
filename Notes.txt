@@ -1,0 +1,28 @@
+
+
+
+Alternative to git pull [Refer : https://stackoverflow.com/questions/21756614/difference-between-git-merge-origin-master-and-git-pull]
+
+1. First update the remote branch using : 
+git remote update
+    OR
+git fetch 
+2. Execute git merge origin 
+
+
+-- To pull changes from an remote branch to an existing local branch 
+1. Checkout into that branch -> git checkout <local_branch_name>
+2. git pull origin <remote_branch_name>     => Ex - if the remote branch name is git_demo_branch then ==>  git pull origin git_demo_branch 
+
+
+
+-- To pull the changes from a remote branch and create a new local branch 
+1. git pull origin <remote_branch_name>:<new_local_branch_name>
+
+-- To push changes to an existing remote branch from a local branch 
+1. git push origin <local_branch_name>:<remote_branch_name>
+
+-- To update newly added remote branch in local 
+1. git remote update 
+OR
+1. git fetch 
