@@ -1,1 +1,4 @@
-# Demo GIT branch for learning GIT
+# Demo Repository for learning GIT
+## Author : Rahul Pal 
+## Activity : Trying to learn GITHUB from scratch 
+
