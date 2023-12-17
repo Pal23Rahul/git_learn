@@ -1,1 +1,1 @@
-# Demo Repositroy for learning GIT
+# Demo GIT branch for learning GIT
