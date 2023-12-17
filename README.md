@@ -1,4 +1,7 @@
 # Demo Repository for learning GIT
-## Author : Rahul Pal 
-## Activity : Trying to learn GITHUB from scratch 
+## First name : Rahul 
+## Last Name : Pal 
+## Activity : Trying to learn GITHUB from scratch
+## Country : India
+## GIT is a code tracking tool 
 
