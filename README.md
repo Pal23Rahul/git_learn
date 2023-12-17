@@ -1,2 +1,2 @@
-# Demo Repositroy for learning GIT
+# Demo Repository for learning GIT
 ## Author : Rahul Pal 
