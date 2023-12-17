@@ -22,6 +22,9 @@ git fetch
 -- To push changes to an existing remote branch from a local branch 
 1. git push origin <local_branch_name>:<remote_branch_name>
 
+-- To push changes from an existing local repo to an unexisting remote branch 
+1. git push --set-upstream origin dev_branch
+
 -- To update newly added remote branch in local 
 1. git remote update 
 OR
